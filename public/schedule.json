@@ -1,0 +1,34 @@
+[
+	{
+	  "event": "First Period",
+	  "start": "9:00",
+	  "end": "10:15"
+	},
+	{
+	  "event": "Second Period",
+	  "start": "10:30",
+	  "end": "11:45"
+	},
+	{
+	  "event": "Reccess",
+	  "start": "11:45",
+	  "end": "12:20"
+	},
+	{
+	  "event": "Third Period",
+	  "start": "12:10",
+	  "end": "13:25"
+	},
+	{
+	  "event": "Lunch",
+	  "start": "13:25",
+	  "end": "14:20"
+	},
+	{
+	  "event": "Fourth Period",
+	  "start": "14:20",
+	  "end": "15:45"
+	}
+	
+  ]
+  
